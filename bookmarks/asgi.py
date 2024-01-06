@@ -1,5 +1,5 @@
 """
-ASGI config for bookmarks project.
+ASGI config for bookmarks1 project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
