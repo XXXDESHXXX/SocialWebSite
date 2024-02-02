@@ -29,7 +29,8 @@ def register(request):
         user_form = UserRegistrationForm()
     return render(request,
                   'account/register.html',
-                  {'user_form': user_form})
+                  {'user_form': user_form}
+                  )
 
 
 def user_login(request):
